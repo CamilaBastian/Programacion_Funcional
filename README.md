@@ -1,25 +1,4 @@
 # Programacion_Funcional
 Trabajo Práctico de Desarrollo de Software 
-### Caso 1: Alumnos
-  - Nombres de alumnos aprobados (nota ≥ 7) en mayúsculas y ordenados alfabéticamente.
-  - Promedio general de notas.
-  - Alumnos agrupados por curso.
-  - Los 3 mejores promedios.
-
-### Caso 2: Productos
-  - Productos con precio mayor a $100, ordenados por precio descendente.
-  - Stock total por categoría.
-  - Lista de productos en formato `nombre;precio`.
-  - Precio promedio general y por categoría.
-
-### Caso 3: Libros
-  - Títulos de libros con más de 300 páginas, ordenados alfabéticamente.
-  - Promedio de páginas.
-  - Cantidad de libros por autor.
-  - Libro más caro.
-
-### Caso 4: Empleados
-  - Empleados con salario mayor a $2000, ordenados por salario descendente.
-  - Salario promedio general.
-  - Suma de salarios por departamento.
-  - Los 2 empleados más jóvenes.
+El programa incluye cuatro casos:
+El primero es el de Alumnos, se procesa una lista de alumnos para obtener información como los nombres de los aprobados, el promedio general de notas, la agrupación por curso y los tres mejores promedios. El segundo es el de Productos, se trabaja con una lista de productos para filtrar aquellos con precio mayor a $100, calcular el stock total por categoría, generar una lista de productos en formato específico y obtener el precio promedio general y por categoría. El tercero es de Libros, se analiza una lista de libros para identificar títulos con más de 300 páginas, calcular el promedio de páginas, contar la cantidad de libros por autor y encontrar el libro más caro. El cuarto es el de Empleados, se procesa una lista de empleados para filtrar aquellos con salario mayor a $2000, calcular el salario promedio general, sumar los salarios por departamento y encontrar los dos empleados más jóvenes.
