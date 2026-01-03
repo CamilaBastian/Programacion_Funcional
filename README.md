@@ -6,8 +6,7 @@
 
 > **Contexto Académico:**
 > * **Ingeniería en Sistemas de Información:** Asignatura *Desarrollo de Software*.
-> * **Tecnicatura Universitaria en Programación:** Asignatura *Programación III*.
->
+
 > **Institución:** Universidad Tecnológica Nacional (UTN).
 
 ## 🎯 Objetivo General
