@@ -89,4 +89,3 @@ El desarrollo de este TP permitió consolidar la transición del pensamiento imp
 **Legajo:** 50795
 **Materia:** Desarrollo de Software
 
-```
